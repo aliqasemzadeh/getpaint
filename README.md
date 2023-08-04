@@ -9,4 +9,4 @@ This website is major website to download tutorials and PDN files.
 
 ## Plugins
 
-Also we help you to find plugin for Paint.net
+Also, we help you find plugin for Paint.net
